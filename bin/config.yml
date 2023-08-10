@@ -1,0 +1,11 @@
+messages:
+  reload-message: "&5TKI &e> &aThe configuration has been successfully reloaded!"
+  no-permission-message: "&5TKI &e> &cYou do not have permission to reload the configuration."
+
+worlds:
+  world:
+    enabled: true
+  world_nether:
+    enabled: false
+  world_the_end:
+    enabled: false

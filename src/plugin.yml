@@ -1,0 +1,7 @@
+main: minealex.tkeepinventory.TKeepInventory
+version: 1.0
+name: TKeepInventory
+
+commands:
+  tki:
+    description: Reload the plugin
