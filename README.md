@@ -8,10 +8,12 @@ Simple keep inventory plugin
 
 # Commands
 - /tki reload
+- /tki version
 
 # Permissions
 - tki.reload
 - tki.keep
+- tki.version
 
 # Dependencies
 - None
