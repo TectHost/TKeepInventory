@@ -1,6 +1,7 @@
 messages:
   reload-message: "&5TKI &e> &aThe configuration has been successfully reloaded!"
   no-permission-message: "&5TKI &e> &cYou do not have permission to reload the configuration."
+  version-message: "&5TKI &e> &aPlugin version: &e%s"
 
 worlds:
   world:
